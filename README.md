@@ -34,4 +34,4 @@ services:
 ```
 
 [dnsmasq]: http://www.thekelleys.org.uk/dnsmasq/doc.html
-[dockerhub]: https://hub.docker.com/r/jpillora/dnsmasq/
+[dockerhub]: https://hub.docker.com/r/leopere/dnsmasq/
