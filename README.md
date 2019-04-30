@@ -1,6 +1,8 @@
 # docker-dnsmasq
+[![Docker Pulls](https://img.shields.io/docker/pulls/leopere/dnsmasq.svg)][dockerhub]
+[![Image Size](https://images.microbadger.com/badges/image/leopere/dnsmasq.svg)][dockerhub] [MIT License](./LICENSE)
 
-It's a [dnsmasq][dnsmasq] Docker image. It is only 6 MB in size. It is just an `CMD` to the `dnsmasq` binary.
+It's a [dnsmasq][dnsmasq] Docker image. It is **half the size of the original** fork at **3 MB** in size. It is just an `CMD` to the `dnsmasq` binary.
 
 ## Goals
 
@@ -32,3 +34,4 @@ services:
 ```
 
 [dnsmasq]: http://www.thekelleys.org.uk/dnsmasq/doc.html
+[dockerhub]: https://hub.docker.com/r/jpillora/dnsmasq/
